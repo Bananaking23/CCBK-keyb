@@ -13,7 +13,8 @@ I couldnt find the step up converter so its just 3 pins for now
 <img width="1271" height="456" alt="image" src="https://github.com/user-attachments/assets/a98449f2-304b-4735-b85f-949b748e9a18" />
 
 
-<img width="1226" height="404" alt="image" src="https://github.com/user-attachments/assets/109029e1-b7f3-4354-a62c-90ee033fe55b" />
+<img width="1118" height="385" alt="image" src="https://github.com/user-attachments/assets/20a17e3d-a3c5-4396-9128-7a6cbdede9ed" />
+
 for some reason i couldnt get all the keycaps on
 
 
