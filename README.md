@@ -43,7 +43,7 @@ for some reason i couldnt get all the keycaps on
 
 
 # BOM
-<img width="1416" height="547" alt="image" src="https://github.com/user-attachments/assets/7d248ef0-4583-445a-9d27-8aab6e4cfa0f" />
+<img width="1135" height="347" alt="image" src="https://github.com/user-attachments/assets/148e2f44-f793-40a9-8cf5-b065abbf4d42" />
 
 ### Link
-https://1drv.ms/x/c/3f7de78506c0c654/IQA3QZuodn6CQ7wfc__Gm2G7AWQhUR_f9jsBKObFc-Nd8tQ
+https://1drv.ms/x/c/3f7de78506c0c654/IQBztQz0UetkR5LsrjEMn85vARuH-ncA3dCGhFmHGj_PK4U?e=rccWr9
