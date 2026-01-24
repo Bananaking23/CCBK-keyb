@@ -1,6 +1,4 @@
 # CCBK-keyb
-total price: 93$,i think I had some discounts on AliExpress that's why it's different
-
 I have decided to make this keyboard as I currently have a 68% keyboard and it feels bad not have f keys and home and delete, as I like to code and those keys are useful shortcuts. The switches I chose sound great and are relatively cheap. This project also improved my skills as I have only made a PCB ones (the hackpad). 
 
 This is my berry cool 75% keyboard, it has a display, 80 keys, under-key lights, and a rotary encoder. It is powered by a rp2040 plus and uses an mcu23017 as gpio extender
