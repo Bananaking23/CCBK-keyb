@@ -30,6 +30,7 @@ for some reason i couldnt get all the keycaps on
 <img width="1246" height="559" alt="image" src="https://github.com/user-attachments/assets/c6c4db81-243e-4faf-a8ed-5062f8f00b42" />
 
 ## Case
+there is no top layer because I think it's not needed for my use case 
 ### Top
 <img width="941" height="388" alt="image" src="https://github.com/user-attachments/assets/8799547b-bd77-42ad-8c2e-ea6c0d9002c3" />
 
