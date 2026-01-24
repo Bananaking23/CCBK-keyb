@@ -1,5 +1,5 @@
 # CCBK-keyb
-This is my berry cool 75% keyboard, it has a display, 80 keys, under-key lights, and uses an rp2040 plus
+This is my berry cool 75% keyboard, it has a display, 80 keys, under-key lights, and a rotary encoder. It is powered by a rp2040 plus and uses an mcu23017 as gpio extender
 
 # Photos
 
