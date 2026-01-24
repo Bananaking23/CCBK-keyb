@@ -3,7 +3,10 @@ This is my berry cool 75% keyboard, it has a display, 80 keys, under-key lights,
 
 # Photos
 
-## full thing
+## almost full thing
+<img width="1226" height="404" alt="image" src="https://github.com/user-attachments/assets/109029e1-b7f3-4354-a62c-90ee033fe55b" />
+for some reason i couldnt get all the keycaps on
+
 
 ## Scematic
 ### Main 
