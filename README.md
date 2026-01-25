@@ -18,7 +18,7 @@ for some reason i couldnt get all the keycaps on
 
 ## Scematic
 ### Main 
-<img width="1033" height="706" alt="image" src="https://github.com/user-attachments/assets/646ab208-d9c5-4beb-ae6e-c822354585ed" />
+<img width="1133" height="639" alt="image" src="https://github.com/user-attachments/assets/966eca91-c1ce-437c-972c-20e24df2d0b1" />
 
 ### Switch Matrix
 <img width="1314" height="384" alt="image" src="https://github.com/user-attachments/assets/b4f66670-18d7-464d-92f9-c8078d2198e7" />
@@ -27,7 +27,8 @@ for some reason i couldnt get all the keycaps on
 <img width="1137" height="682" alt="image" src="https://github.com/user-attachments/assets/703d1dc6-237e-478c-9640-492c3894c64b" />
 
 ## pcb
-<img width="1249" height="534" alt="image" src="https://github.com/user-attachments/assets/f418ebec-39a4-449c-8c6b-9a072e984695" />
+<img width="876" height="382" alt="image" src="https://github.com/user-attachments/assets/2b66e7c4-04f7-40b9-a1ec-44141168b31e" />
+
 
 ## Case
 there is no top layer because I think it's not needed for my use case 
