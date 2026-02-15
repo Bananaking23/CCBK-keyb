@@ -9,7 +9,7 @@ This is my berry cool 75% keyboard, it has a display, 80 keys, under-key lights,
 ## almost full thing
 <img width="1200" height="444" alt="image" src="https://github.com/user-attachments/assets/7440a354-3787-49a1-81d2-bf0ac789e184" />
 
-<img width="1118" height="385" alt="image" src="https://github.com/user-attachments/assets/20a17e3d-a3c5-4396-9128-7a6cbdede9ed" />
+<img width="1188" height="491" alt="image" src="https://github.com/user-attachments/assets/647deb82-7425-4d61-8326-95faaf249ec5" />
 
 for some reason i couldnt get all the keycaps on
 
