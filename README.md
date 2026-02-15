@@ -27,16 +27,14 @@ for some reason i couldnt get all the keycaps on
 ## pcb<img width="1129" height="518" alt="image" src="https://github.com/user-attachments/assets/2fa74263-89ad-4d9c-8199-12e513b0ab96" />
 
 ## Case
-there is no top layer because I think it's not needed for my use case 
-### Top
-<img width="941" height="388" alt="image" src="https://github.com/user-attachments/assets/8799547b-bd77-42ad-8c2e-ea6c0d9002c3" />
+<img width="1209" height="426" alt="image" src="https://github.com/user-attachments/assets/5ecd4639-d60a-4b69-b06a-5228fec021b1" />
 
-### Side
-<img width="1002" height="148" alt="image" src="https://github.com/user-attachments/assets/488e9f07-2014-4df3-b767-b282fd107a0e" />
+###Usb-c
+<img width="907" height="582" alt="image" src="https://github.com/user-attachments/assets/e1ebc693-4fed-41b2-8ca9-8c6169c97a64" />
 
-### Bottom
-<img width="933" height="413" alt="image" src="https://github.com/user-attachments/assets/7809c66b-443e-48ff-9f3a-4706842d611a" />
 
+### Plate
+<img width="1165" height="468" alt="image" src="https://github.com/user-attachments/assets/23a7dcf0-a358-4c32-935c-dd67b1c13944" />
 
 # BOM
 <img width="1135" height="347" alt="image" src="https://github.com/user-attachments/assets/148e2f44-f793-40a9-8cf5-b065abbf4d42" />
