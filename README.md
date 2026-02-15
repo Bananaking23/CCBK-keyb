@@ -16,17 +16,15 @@ for some reason i couldnt get all the keycaps on
 
 ## Scematic
 ### Main 
-<img width="1133" height="639" alt="image" src="https://github.com/user-attachments/assets/966eca91-c1ce-437c-972c-20e24df2d0b1" />
+<img width="866" height="593" alt="image" src="https://github.com/user-attachments/assets/1494ff1b-52f0-45be-ad1b-c5309cdde863" />
 
 ### Switch Matrix
-<img width="1314" height="384" alt="image" src="https://github.com/user-attachments/assets/b4f66670-18d7-464d-92f9-c8078d2198e7" />
+<img width="1041" height="318" alt="image" src="https://github.com/user-attachments/assets/4824c4d1-3523-4fca-ba54-6c5b1499abed" />
 
 ### Led
-<img width="1137" height="682" alt="image" src="https://github.com/user-attachments/assets/703d1dc6-237e-478c-9640-492c3894c64b" />
+<img width="969" height="576" alt="image" src="https://github.com/user-attachments/assets/29c71fa1-8e73-43aa-88bc-0a94c316d2b1" />
 
-## pcb
-<img width="876" height="382" alt="image" src="https://github.com/user-attachments/assets/2b66e7c4-04f7-40b9-a1ec-44141168b31e" />
-
+## pcb<img width="1129" height="518" alt="image" src="https://github.com/user-attachments/assets/2fa74263-89ad-4d9c-8199-12e513b0ab96" />
 
 ## Case
 there is no top layer because I think it's not needed for my use case 
