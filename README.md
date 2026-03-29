@@ -29,7 +29,7 @@ for some reason i couldnt get all the keycaps on
 ## Case
 <img width="1209" height="426" alt="image" src="https://github.com/user-attachments/assets/5ecd4639-d60a-4b69-b06a-5228fec021b1" />
 
-###Usb-c
+### Usb-c
 <img width="907" height="582" alt="image" src="https://github.com/user-attachments/assets/e1ebc693-4fed-41b2-8ca9-8c6169c97a64" />
 
 
@@ -42,4 +42,8 @@ for some reason i couldnt get all the keycaps on
 ### Link
 https://1drv.ms/x/c/3f7de78506c0c654/IQBztQz0UetkR5LsrjEMn85vARuH-ncA3dCGhFmHGj_PK4U?e=rccWr9
 
-#After completion
+#A fter completion
+<img width="4080" height="3072" alt="image_2026-03-29_170823562" src="https://github.com/user-attachments/assets/fadb9581-6545-4f9e-abea-3b2a736d1e25" />
+## Case
+<img width="1320" height="411" alt="image" src="https://github.com/user-attachments/assets/d99ff3e1-cd19-47b1-9128-1f1e150e75ac" />
+<img width="1226" height="439" alt="image" src="https://github.com/user-attachments/assets/ca9ca871-cf72-4422-9d5e-1e76d9c86e1a" />
