@@ -41,3 +41,5 @@ for some reason i couldnt get all the keycaps on
 
 ### Link
 https://1drv.ms/x/c/3f7de78506c0c654/IQBztQz0UetkR5LsrjEMn85vARuH-ncA3dCGhFmHGj_PK4U?e=rccWr9
+
+#After completion
